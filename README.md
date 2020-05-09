@@ -1,5 +1,5 @@
-# weekend-challenge-1
-Coding Challenge organisé par github.com/xarala221
+# WeekEnd Challenge 1
+A coding Challenge organized by @xarala221
 
-## techno
+## Technos
 JS + Bootstrap + HTML/CSS
